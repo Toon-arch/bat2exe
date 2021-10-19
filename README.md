@@ -13,4 +13,7 @@
 https://github.com/Toon-arch/bat2exe/files/7376874/bat2exe.zip
 
 ## Visual Convertion
+
+Drag a `.bat` onto the `bat2exe` file.
+
 <img width="900px" src="https://raw.githubusercontent.com/Toon-arch/bat2exe/main/img/tutorial.gif"/>
